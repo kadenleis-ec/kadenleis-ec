@@ -17,7 +17,7 @@ I'm a **Senior Software Engineering Student** at the **University of Wisconsinâ€
 ---
 
 ### Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,cs,php,js,react,html,css,mysql,azure,git,github,vscode,visualstudio,powershell,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,cs,php,js,html,css,mysql,azure,git,github,vscode,visualstudio,powershell,pytorch)](https://skillicons.dev)
 
 ---
 
