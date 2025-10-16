@@ -17,12 +17,12 @@ I'm a **Senior Software Engineering Student** at the **University of Wisconsinâ€
 ---
 
 ### Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=py,java,cs,php,js,react,html,css,mysql,azure,git,github,vscode,visualstudio,powershell,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,cs,php,js,react,html,css,mysql,azure,git,github,vscode,visualstudio,powershell,pytorch)](https://skillicons.dev)
 
 ---
 
 ### Learning
-[![Learning](https://skillicons.dev/icons?i=c,cpp,typescript,nextjs,react,tailwind,postgres,flask)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=cpp,typescript,nextjs,react,tailwind,postgres,flask)](https://skillicons.dev)
 
 ---
 
