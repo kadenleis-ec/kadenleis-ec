@@ -11,7 +11,7 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaden%20Leis-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaden-leis/)
-[![GitHub](https://img.shields.io/github/followers/kadenleis?label=follow&style=social)](https://github.com/kadenleis)
+[![GitHub](https://img.shields.io/github/followers/kadenleis-ec?label=follow&style=social)](https://github.com/kadenleis-ec)
 
 ---
 
