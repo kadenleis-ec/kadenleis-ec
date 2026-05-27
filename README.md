@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    B.S. in Software Engineering
+    B.S. in Software Engineering at
     <a href="https://www.uwec.edu/">University of Wisconsin–Eau Claire</a>
     <br/>
     Information Security Analyst at
