@@ -2,10 +2,10 @@
 
 <p>
   <em>
-    Senior Software Engineering Student at
+    B.S. in Software Engineering
     <a href="https://www.uwec.edu/">University of Wisconsin–Eau Claire</a>
     <br/>
-    Information Security Intern at
+    Information Security Analyst at
     <a href="https://www.menards.com/">Menards</a>
   </em>
 </p>
@@ -19,7 +19,7 @@
 
 ```ts
 const kaden = {
-  education: "B.S. in Software Engineering (Senior)",
+  education: "B.S. in Software Engineering",
   languages: ["Python", "Java", "C", "C#", "JavaScript", "PHP"],
   tools: ["Azure", "Git", "GitHub", "PowerShell", "PostgreSQL", "MySQL"],
   certification: "CompTIA Security+"
